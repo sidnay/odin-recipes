@@ -1,0 +1,2 @@
+ I am super excited to finally complete a basic introduction course in Github, Git and html. Its a great step for me because i never realy lovd coding but I really find it interesting and I am very proud of myself and hope to take the course to the end to be WEB DEVELOPER! 
+ This project is the very first project on creating a Recipe Document.
